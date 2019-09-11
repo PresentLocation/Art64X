@@ -1,0 +1,76 @@
+<!--
+
+LINKS, FONTS AND COLORS
+
+Three ways to use the <a> tag for links
+1. # = inline anchor = links to a location in your document
+2. [filename] = local = links to another document in your local site area
+3. http://[XXXX] = remote = links to a location elsewhere on the Internet
+
+Four ways to define colors in your code and designs
+1. HTML color names
+https://htmlcolorcodes.com/color-names/
+2. Hex color codes. Example: #0033EE. https://htmlcolorcodes.com/
+3. RGB color space = Red green blue. Format: rgb(rrr,ggg,bbb)
+4. RGBa = RGB + alpha = Alpha enables transparency. Format: rgba(rrr,ggg,bbb,a) 
+
+Three ways to define fonts in your code and designs
+1. Web safe fonts: https://www.w3schools.com/cssref/css_websafe_fonts.asp
+2. Web fonts: Example and demo: https://fonts.google.com/
+3. Custom fonts: css @font-face. Reference:  https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face 
+
+-->
+
+<html>
+
+<head>
+
+<link href="https://fonts.googleapis.com/css?family=Teko:700&display=swap" rel="stylesheet">
+
+<style type='text/css' media=all>
+div { padding: 72px; }	
+</style>
+
+</head>
+
+<body>
+
+<!-- menu goes here -->
+<a href=#redstuff>red</a> <a href=#ireallyhateblue>blue</a> <a href=#greenstuff>green</a>
+<a href=pizza.html>Visit pizza page.</a>
+
+<div id = redstuff style="text-align: center; background-color: #1832D8;"><h1 style="color: rgba(250,250,250,0.5); font-family: 'Teko', Arial, sans-serif; font-size: 4em;">HTML color names</h1><p> hjsadfsdfa k sadfkldsaf  dsfalkdsfa sdfa dsfa  dfsahdsfahdfsah dfas dfsah asdflkf sfa red<p> hjsadfsdfa k sadfkldsaf  dsfalkdsfa sdfa dsfa  dfsahdsfahdfsah dfas dfsah asdflkf sfa red<p> hjsadfsdfa k sadfkldsaf  dsfalkdsfa sdfa dsfa  dfsahdsfahdfsah dfas dfsah asdflkf sfa redfsah dfas dfsah asdflkf sfa red</div>
+
+<div id = ireallyhateblue style="text-align: center; background-color: rgb(102,12,14);"><h1 style="color: rgba(250,250,250,0.5); font-family: 'Teko', Arial, sans-serif; font-size: 4em;">Hex Codes</h1><p>
+
+<p>Hex codes have six characters:<br>
+123456<br>
+Position 12 = red value<br>
+Position 34 = green<br>
+Position 56 blue<br>
+
+<p>Hex code values range from 00-FF:
+00 = 0%<br>
+33 = 20%<br>
+66 = 40%<br> 
+99 = 60%<br>
+CC = 80%<br>
+FF = 100%<br>
+
+</div>
+<div id = greenstuff style="text-align: center; background-color: green;"><h1 style="color: rgba(250,250,250,0.5); font-family: 'Teko', Arial, sans-serif; font-size: 4em;">RGB values</h1>
+
+<p>
+</div>
+
+<div id = greenstuff style="text-align: center; background-color: yellow;"><h1 style="color: rgba(12,12,12,0.75); font-family: 'Teko', Arial, sans-serif; font-size: 4em;">RGBA</h1> 
+
+<p>
+</div>
+
+
+</body>
+
+
+
+</html>
