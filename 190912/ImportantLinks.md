@@ -5,12 +5,12 @@
 	- Example (not good enough): namecard.html 
 	- Example (good): EUgeneAhn_namecard.html
 	- Example (good): AhnEugeneNameCard.html
-  - Example (even better): Art645-NameCard-EugeneAhn.html
+  	- Example (even better): Art645-NameCard-EugeneAhn.html
 
-2. Location of name card assignment:
+2. Location of name card assignment brief:
 
 	- http://art646.com/coursework/namecard.php
 
-3. Location of demo files:
+3. Location of class demo files:
 
 	- https://github.com/PresentLocation/Art64X
