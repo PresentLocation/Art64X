@@ -1,39 +1,42 @@
 <!--
 
 BEHOLD THE CSS STAGING DEMO
+
 Three ways to stage CSS code
-1. Inline styles
-2. Internal stylesheet (tags/classes/ids)
-3. External stylesheet
+1. Inline styles (Uses the style attribute directly in the HTML tag)
+2. Internal stylesheet (CSS definitions are listed in a <style> tag set within the document's <head> tag. Declare styles based on tags (HTML), classes (".anything"), or id (#anything).
+3. External stylesheet (Set up same as an internal stylesheet, but instead of in the <head> of the document, as its own separate file. Documents access the external stylesheet with via a <link> tag set in the document's <head> tag.
+
+THe HTML5 code below demonstrates how an internal stylesheet defines CSS properties that map to the HTML code via HTML tags, class assignments, and ID assignments. Note how lightweight the resulting code can be when CSS styling is moved from inline placements to a stylesheet.
 
 -->
 
 <html>
-<head>
+	<head>
 
-<style type='text/css' media=all>
+		<style type='text/css' media=all>
 
-/* TAG-BASED STYLES */
-div {width: 250px; margin-top: 1.5em; color: blue;}
+		/* TAG-BASED STYLES */
+		div {width: 250px; margin-top: 1.5em; color: blue;}
 
-/* CLASS-BASED STYLES */
-.interviewerContent { font-weight: bold; background-color: red; font-size: 1.2em}
-.responderContent {background-color: rgb(0,255,0); color: rgb(150,150,150); }
+		/* CLASS-BASED STYLES */
+		.interviewerContent { font-weight: bold; background-color: red; font-size: 1.2em}
+		.responderContent {background-color: rgb(0,255,0); color: rgb(150,150,150); }
 
-/* ID-BASED STYLES */
-#header {font-family: arial; color: purple;}
+		/* ID-BASED STYLES */
+		#header {font-family: arial; color: purple;}
 
-
-	</style>
+		</style>
 
 	</head>
 	<body>
-<h1 id=header>Q&A with the class</h1>
+		<h1 id=header>Q&A with the class</h1>
+		
 		<div class=interviewerContent>
 			EA: Hello World!
 		</div>
 
-		<div class=responderContent >
+		<div class=responderContent>
 			Class: WTF?
 		</div>
 
@@ -44,8 +47,5 @@ div {width: 250px; margin-top: 1.5em; color: blue;}
 		<div class=responderContent>
 			Class: WTF?
 		</div>
-
-
 	</body>
-
 </html>
