@@ -1,0 +1,36 @@
+<!--
+
+CSS LAYERING
+
+1. HTML container, usually DIV
+2. CSS property: position
+3. CSS property: z-index, = 100 > 1
+
+
+-->
+
+
+<html>
+<head>
+<title>Art 645 - CSS layering demo</title>
+</head>
+<body>
+
+
+<div id=stage style="background-image: url(coal.jpg); background-size: cover; position: relative; width: 900px; height: 500px; background-color: rgba(0,0,240,0.4);">
+
+	<div style="position: absolute; left: 100px; top: 200px;">Global Warming</div>
+<div id=blimp style="z-index: 10; position: absolute; top: 0; right: 0;"><img src=blimptwirl.gif></div>
+
+<div id=birds style="position: absolute; top: 0; right: 0;"><img src=birds.png style="width: 300px;"></div>
+
+
+<div id=tree style="position: absolute; bottom: 10px; left: 10px;"><img src=tree.png style="width: 200px;"></div>
+
+
+</div>
+
+</body>
+
+
+</html>
