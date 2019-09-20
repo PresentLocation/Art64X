@@ -1,0 +1,43 @@
+<!--
+
+CSS LAYERING
+
+The essentials:
+
+1. Use HTML containers to organize positioning. Usually use DIVs, but any HTML element can be positioned and layered.
+2. Use CSS property: position to set up DIVs as stages and as elements that can be positioned and layered.
+3. Use CSS property: z-index to indicate layer heirarchy. Highest number is the top of the stack. By default, elements with no declared z-index have a z-index of 1.
+
+-->
+
+
+<html>
+<head>
+<title>Art 645 - CSS Layering Demo</title>
+</head>
+<body>
+
+
+<div id=stage style="overflow: hidden; background-image: url(coal.jpg); background-size: cover; position: relative; width: 900px; height: 500px; background-color: rgba(0,0,240,0.4);">
+
+	<div style="z-index: 14; text-shadow: 0px 0px 10px black; position: absolute; left: 100px; top: 200px; font-family: arial; font-size:3em; color: white">Global Warming<br><span style="font-size: 0.4em;">COMING SOON TO YOUR NEIGHBORHOOD</span></div>
+
+	<!--<div style="z-index: 14;  position: absolute; left: 100px; top: 400px; font-family: arial; font-size:3em; color: white">Global Warming<br><span style="font-size: 0.4em;">COMING SOON TO YOUR NEIGHBORHOOD</span></div>-->
+
+
+<div id=blimp style="z-index: 10; position: absolute; top: 0; right: 0;"><img src=blimptwirl.gif></div>
+
+<div id=birds style="z-index:9; position: absolute; top: 0; right: 0;"><img src=birds.png style="width: 300px;"></div>
+<div id=birds2 style="z-index: 11; position: absolute; top: -50; right: -100;"><img src=birds.png style="width: 800px;"></div>
+
+
+<div id=tree style="position: absolute; bottom: 10px; left: 10px;"><img src=tree.png style="width: 200px;"></div>
+
+<div id=tree2 style="position: absolute; bottom: 50px; left: 240px;"><img src=tree.png style="width: 50px;"></div>
+
+</div>
+
+</body>
+
+
+</html>
