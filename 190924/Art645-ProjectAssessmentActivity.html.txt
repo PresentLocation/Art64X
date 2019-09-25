@@ -1,0 +1,33 @@
+<!--
+
+GET CLASS FILES HERE
+https://www.github.com/PresentLocation
+
+-->
+
+<html>
+	<head>
+	<title>Art 64X - Project Assessment Activity</title>
+	</head>
+	<body>
+
+<H1>PROJECT ASSESSMENT</H1>
+
+
+<h2>WHAT TO DO</h2>
+
+<ul>
+<li>visit Alpha site: http://www.timeisanillusion.com
+<li>visit Launch site: http://www.amargosaoperahouse.org
+<li>briefly scan and compare the two
+<li>create a "map" of the sites. what is same and what is different about them?
+<li>list 10 design actions that were done between version Alpha and version Launch
+<li>compile your map and 10 design actions in an HTML page or a text file
+<li>Save the file with appropriate filename. Examples: ProjectAssessment-EugeneAhn.html or ProjectAssessment-EugeneAhn.txt
+<li>post the document to Art645.com/upload.php
+
+
+	</body>
+</html>
+
+

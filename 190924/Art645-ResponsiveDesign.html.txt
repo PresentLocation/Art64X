@@ -1,0 +1,19 @@
+<!--
+
+GET CLASS FILES HERE
+https://www.github.com/PresentLocation
+
+-->
+
+<html>
+	<head>
+	<title>Art 64X - Responsive Design</title>
+	</head>
+	<body>
+
+<h1>Responsive Design</h1>
+
+	</body>
+</html>
+
+
