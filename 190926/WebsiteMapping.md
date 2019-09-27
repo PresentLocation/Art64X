@@ -10,7 +10,11 @@ Site maps concern themselves with
 1. Structure of product
 2. Structure of the user experience
 
-### EXAMPLE: http://www.amargosaoperahouse.org
+Site map tend to be based on features or topics. In the same way a grocery store organizes fresh produce in one area and frozen food in another, a web site tends to organize itself in ways that will facilitate a structured visit for users.
+
+### CASE STUDY: http://www.amargosaoperahouse.org
+
+In this case study activity, we will develop a site map for the Amargosa Opera House web site.
 
 #### PRIMARY MAP ELEMENTS
 - opera house
@@ -28,14 +32,18 @@ Site maps concern themselves with
 
 ## PAGE MAPS
 
-Page maps define everything that is happening on a page
+Page maps define everything that exists on a page, and how those things are organized.
+
+
 
 Three aspects of assessment are:
 1. Layout elements - The arrangement of the page
 2. Content elements - The information on the page
 3. Design elements - The way the information and arrangement are designed to be accessible and inviting
 
-### EXAMPLE: http://www.amargosaoperahouse.org/press/
+### CASE STUDY: http://www.amargosaoperahouse.org/press/
+
+In this case study activity, we will develop a page map for the press page of the Amargosa Opera House web site.
 
 #### LAYOUT ELEMENTS
 - page header
