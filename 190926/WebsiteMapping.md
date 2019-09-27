@@ -1,8 +1,14 @@
 # Website Mapping
 
-Website mapping is an important design technique. Designers map the web to assess existing web product, and to plan the design of new web product.
+Website mapping is an important design practice.
 
-In this introduction to website mapping, we are interested in understanding basic ways to develop both (1) site maps and (2) page maps. (These terms site map and page page tend to refer to websites. When we are designing other types of web product, we may use more general terminology, such as project map and screen map.)
+#### REASONS FOR MAPPING
+Designers map for various reasons.
+
+1. <b>Assess existing web product in order to better understand the design.</b> This reason supports situations such as competitive analysis and redesign research.
+2. <b>Plan designs of new web product in order to more fully realize the goals of the product.</b> This reason supports situations such as idea development and proposal development.
+
+In this introduction to website mapping, we are interested in understanding basic ways to develop both (1) <b>site maps</b> and (2) <b>page maps</b>. (These terms site map and page page tend to refer to websites. When we are designing other types of web product, we may use more general terminology, such as <b>project map</b> and <b>screen map</b>.)
 
 ## SITE MAPS
 
@@ -27,7 +33,7 @@ Site map tend to be based on features or topics. In the same way a grocery store
 >- marta
 >- press
 
-### QUESTIONS
+#### QUESTIONS
 - Why doesn't this website just put all elements on the same single menu?
 
 
