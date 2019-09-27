@@ -86,7 +86,9 @@ Three aspects of assessment are:
 
 ## Applying Mapping
 
-Understanding the layout, content, and design approach for a page allows you to develop <b>content layouts</b> and a <b>page template</b>.
+Mapping helps the designer develop meaningful design solutions for pages. Mapping helps the designer understand requirements, challenges, and possibilities as they relate to layout, content, and design.
+
+Mapping helps the designer develop two important forms that aid in the production of designs: <b>content layouts</b> and a <b>page template</b>.
 
 ### Content Layouts
 
