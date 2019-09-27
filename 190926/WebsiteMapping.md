@@ -1,18 +1,19 @@
 # Website Mapping
 
+## Introduction
+
 Website mapping is an important design practice.
 
 #### REASONS FOR MAPPING
-Designers map for various reasons.
-
-1. <b>Assess existing web product in order to better understand the design.</b> This reason supports situations such as competitive analysis and redesign research.
-2. <b>Plan designs of new web product in order to more fully realize the goals of the product.</b> This reason supports situations such as idea development and proposal development.
+Designers map for various reasons:
+1. <b>To assess existing web product in order to better understand the design.</b> This reason supports situations such as competitive analysis and redesign research.
+2. <b>To plan designs of new web product in order to more fully realize the goals of the product.</b> This reason supports situations such as idea development and proposal development.
 
 In this introduction to website mapping, we are interested in understanding basic ways to develop both (1) <b>site maps</b> and (2) <b>page maps</b>. (These terms site map and page page tend to refer to websites. When we are designing other types of web product, we may use more general terminology, such as <b>project map</b> and <b>screen map</b>.)
 
-## SITE MAPS
+## Site Maps
 
-Site maps concern themselves with
+Site maps concern themselves with:
 1. Structure of product
 2. Structure of the user experience
 
@@ -40,7 +41,7 @@ By developing a site map, we get to explore ways we might organize the things th
 - Why doesn't this website just put all elements on the same single menu?
 
 
-## PAGE MAPS
+## Page Maps
 
 Page maps define everything that exists on a page, and how those things are organized so that the page offers some kind of presentation.
 
@@ -83,11 +84,11 @@ Three aspects of assessment are:
 
 
 
-## APPLYING MAPPING
+## Applying Mapping
 
 Understanding the layout, content, and design approach for a page allows you to develop <b>content layouts</b> and a <b>page template</b>.
 
-### CONTENT LAYOUTS
+### Content Layouts
 
 Generally, content elements are organized into presentations. We can call these presentation objects content layouts.
 
@@ -98,7 +99,7 @@ Examples of content layouts:
 - On cafe page, the restaurant menu (consisting of an icon element, section label, entree title, and entree description)
 - On hotel page, the brief history article
 
-### PAGE TEMPLATE
+### Page Templates
 
 Example: http://www.amargosaoperahouse.org/template/
 
