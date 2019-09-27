@@ -1,32 +1,32 @@
-Website Mapping
+# Website Mapping
 
 Website mapping is used to assess existing websites, and to also plan the design of new websites.
 
 In this introduction to website mapping, we are interested in knowing how to develop both (1) site maps and (2) page maps.
 
-SITE MAPS
+## SITE MAPS
 
 Site maps concern themselves with
 1. Structure of product
 2. Structure of the user experience
 
-EXAMPLE: http://www.amargosaoperahouse.org
+### EXAMPLE: http://www.amargosaoperahouse.org
 
-PRIMARY MAP ELEMENTS
+#### PRIMARY MAP ELEMENTS
 - opera house
 - hotel
 - cafe
 
-SECONDARY MAP ELEMENTS
+#### SECONDARY MAP ELEMENTS
 - news & updates (also serves as the home page)
 - marta
 - press
 
-QUESTIONS
+### QUESTIONS
 - Why doesn't this website just put all elements on the same single menu?
 
 
-PAGE MAPS
+## PAGE MAPS
 
 Page maps define everything that is happening on a page
 
@@ -35,9 +35,9 @@ Three aspects of assessment are:
 2. Content elements - The information on the page
 3. Design elements - The way the information and arrangement are designed to be accessible and inviting
 
-EXAMPLE: http://www.amargosaoperahouse.org/press/
+### EXAMPLE: http://www.amargosaoperahouse.org/press/
 
-LAYOUT ELEMENTS
+#### LAYOUT ELEMENTS
 - page header
 - content header
 - (content dashboard)
@@ -46,7 +46,7 @@ LAYOUT ELEMENTS
 - footer
 
 
-CONTENT ELEMENTS
+#### CONTENT ELEMENTS
 
 - header text
 - story grid (thumbnail, linked title, description text
@@ -60,7 +60,7 @@ Examples of content layouts:
 - On cafe page, the restaurant menu (consisting of an icon element, section label, entree title, and entree description)
 - On hotel page, the brief history article
 
-DESIGN ELEMENTS
+#### DESIGN ELEMENTS
 
 Design elements determine the look and feel of the page.
 
@@ -80,7 +80,8 @@ Elements noted:
 - Color palette includes black, browns, red, blues
 - Content header and footer utilizes transparent backgrounds
 
-APPLYING MAPPING
+## APPLYING MAPPING
+
 Understanding the layout, content, and design approach for a page allows you to develop a template
 
 Example: http://www.amargosaoperahouse.org/template/
