@@ -12,6 +12,7 @@ Site maps concern themselves with
 
 Site map tend to be based on features or topics. In the same way a grocery store organizes fresh produce in one area and frozen food in another, a web site tends to organize itself in ways that will facilitate a structured visit for users.
 
+```
 ### CASE STUDY: http://www.amargosaoperahouse.org
 
 In this case study activity, we will develop a site map for the Amargosa Opera House web site.
@@ -25,6 +26,7 @@ In this case study activity, we will develop a site map for the Amargosa Opera H
 - news & updates (also serves as the home page)
 - marta
 - press
+```
 
 ### QUESTIONS
 - Why doesn't this website just put all elements on the same single menu?
@@ -34,13 +36,12 @@ In this case study activity, we will develop a site map for the Amargosa Opera H
 
 Page maps define everything that exists on a page, and how those things are organized.
 
-
-
 Three aspects of assessment are:
 1. Layout elements - The arrangement of the page
 2. Content elements - The information on the page
 3. Design elements - The way the information and arrangement are designed to be accessible and inviting
 
+```
 ### CASE STUDY: http://www.amargosaoperahouse.org/press/
 
 In this case study activity, we will develop a page map for the press page of the Amargosa Opera House web site.
@@ -52,7 +53,6 @@ In this case study activity, we will develop a page map for the press page of th
 - content 
 - content footer
 - footer
-
 
 #### CONTENT ELEMENTS
 
@@ -72,8 +72,6 @@ Examples of content layouts:
 
 Design elements determine the look and feel of the page.
 
-EXAMPLE: http://www.amargosaoperahouse.org/press
-
 Elements noted:
 
 - The layout is responsive (sometimes also described as mobile friendly or mobile first)
@@ -87,6 +85,7 @@ Elements noted:
 - Content section titles are set in a decorative font
 - Color palette includes black, browns, red, blues
 - Content header and footer utilizes transparent backgrounds
+```
 
 ## APPLYING MAPPING
 
