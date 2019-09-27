@@ -16,8 +16,11 @@ Site maps concern themselves with
 1. Structure of product
 2. Structure of the user experience
 
-Site map tend to be based on features or topics. In the same way a grocery store organizes fresh produce in one area and frozen food in another, a web site tends to organize itself in ways that will facilitate a structured visit for users.
+Site maps tend to be based on features or topics.
 
+In the same way a grocery store organizes fresh produce in one area and frozen food in another, a web site tends to organize itself in ways that will facilitate a structured visit for users.
+
+By developing a site map, we get to explore ways we might organize the things that will be presented on a website. This exploration will help us better understand the product, its content, its audience, and the possibilities of providing a meaningful experience.
 
 > ### SITE MAPPING CASE STUDY: http://www.amargosaoperahouse.org
 >
@@ -39,7 +42,7 @@ Site map tend to be based on features or topics. In the same way a grocery store
 
 ## PAGE MAPS
 
-Page maps define everything that exists on a page, and how those things are organized.
+Page maps define everything that exists on a page, and how those things are organized so that the page offers some kind of presentation.
 
 Three aspects of assessment are:
 1. <b>Layout elements</b> contribute to the arrangement of content on the page.
@@ -51,6 +54,7 @@ Three aspects of assessment are:
 >In this case study activity, we will develop a page map for the press page of the Amargosa Opera House web site.
 >
 >#### LAYOUT ELEMENTS
+>Layout elements identified through guided group assessment:
 >- page header
 >- content header
 >- (content dashboard)
@@ -59,29 +63,31 @@ Three aspects of assessment are:
 >- footer
 >
 >#### CONTENT ELEMENTS
->
+>Content elements identified through guided group assessment:
 >- header text
 >- story grid (thumbnail, linked title, description text
 >
 >#### DESIGN ELEMENTS
->
->
->
->Elements noted:
->
->- The layout is responsive (sometimes also described as mobile friendly or mobile first)
->- The page background is a full bleed gradient
->- The content area is a panel that floats in the page
->- There is a brand slogan
->- There is a brand logo
->- Header text is set in script font
->- Links and section labels are set in western font
->- Grid item titles are set in a narrow font
->- Content section titles are set in a decorative font
->- Color palette includes black, browns, red, blues
->- Content header and footer utilizes transparent backgrounds
+>Design elements identified through guided group assessment:
+>- Responsive layout. The layout is responsive (sometimes also described as mobile friendly or mobile first)
+>- Background gradient. The page background is a full bleed gradient
+>- Floating content panel. The content area is a panel that floats in the page
+>- Branding - Slogan. There is a brand slogan
+>- Branding - Logo. There is a brand logo
+>- Styled header text. Header text is set in script font
+>- Styled navigation text. Links and section labels are set in western font
+>- Styled grid text. Grid item titles are set in a narrow font
+>- Styled title text. Content section titles are set in a decorative font
+>- Color palette. Color palette includes black, browns, red, blues
+>- Transparency. Content header and footer utilizes transparent backgrounds
 
-## ORGANIZING CONTENT LAYOUTS
+
+
+## APPLYING MAPPING
+
+Understanding the layout, content, and design approach for a page allows you to develop <b>content layouts</b> and a <b>page template</b>.
+
+### CONTENT LAYOUTS
 
 Generally, content elements are organized into presentations. We can call these presentation objects content layouts.
 
@@ -92,10 +98,7 @@ Examples of content layouts:
 - On cafe page, the restaurant menu (consisting of an icon element, section label, entree title, and entree description)
 - On hotel page, the brief history article
 
-
-## APPLYING MAPPING
-
-Understanding the layout, content, and design approach for a page allows you to develop a template
+### PAGE TEMPLATE
 
 Example: http://www.amargosaoperahouse.org/template/
 
