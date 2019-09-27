@@ -1,8 +1,8 @@
 # Website Mapping
 
-Website mapping is used to assess existing websites, and to also plan the design of new websites.
+Website mapping is an important design technique. Designers map the web to assess existing web product, and to plan the design of new web product.
 
-In this introduction to website mapping, we are interested in knowing how to develop both (1) site maps and (2) page maps.
+In this introduction to website mapping, we are interested in understanding basic ways to develop both (1) site maps and (2) page maps. (These terms site map and page page tend to refer to websites. When we are designing other types of web product, we may use more general terminology, such as project map and screen map.)
 
 ## SITE MAPS
 
