@@ -1,7 +1,6 @@
-Lecture notes October 8, 2019
+# Lecture notes October 8, 2019
 
-From concept to code:
-A demonstration of web design process 
+** From concept to code: A demonstration of web design process 
 
 1. Review existing project environment
 2. Review new project content
@@ -9,10 +8,10 @@ A demonstration of web design process
 4. Map design elements onto concept
 5. Translate design elements into code assets
 
-1.
+*** Review existing project environment ***
 http://www.amargosaoperahouse.org/template/
 
-2.
+*** Review new project content ***
 http://flamethrowing.info/animals/AOH_Animals.docx
 https://amargosa-opera-house.weebly.com/JunctionPhotos.html
 
