@@ -1,6 +1,6 @@
 # Lecture notes October 8, 2019
 
-** From concept to code: A demonstration of web design process 
+**From concept to code: A demonstration of web design process 
 
 1. Review existing project environment
 2. Review new project content
@@ -8,14 +8,14 @@
 4. Map design elements onto concept
 5. Translate design elements into code assets
 
-*** Review existing project environment ***
+***Review existing project environment
 http://www.amargosaoperahouse.org/template/
 
-*** Review new project content ***
+***Review new project content
 http://flamethrowing.info/animals/AOH_Animals.docx
 https://amargosa-opera-house.weebly.com/JunctionPhotos.html
 
-3
+***Develop presentation concept
 Concept: Animals page
 
 section 1: page header
@@ -32,7 +32,7 @@ section 3: cats
 section 4: other
 - grid of b/w coloring illustrations
 
-4
+***Map design elements onto concept
 Concept: Animals page
 
 SECTION HEADER section 1: page header
@@ -53,7 +53,7 @@ section 4: other
 - grid of b/w coloring illustrations
 
 
-5
+***Translate design elements into code assets
 Now that elements are mapped in support of our design concept, those elements can be translated into code that represents the containers that our layout would accommodate to present the content according to the concept.
 
 <section id=contentHeader>
@@ -66,7 +66,7 @@ Now that elements are mapped in support of our design concept, those elements ca
 	</div>
 </section>
 
-Resources
+***Resources
 - Utilize design briefs. They will help you stay on task of the design project's objectives. Apply your effort to accomplish the project objectives.
 - Practice a balanced approach to design work. Try the 1:4 work balance ratio. Manage your time and energy to be effective and to leverage your creativity as productivity. 
 
