@@ -1,0 +1,20 @@
+http://github.com/PresentLocation/Art64X
+
+
+WIREFRAME TRANSLATION
+
+HORSES ELEMENT
+
+1. HEADER SECTION
+- HEADLINE: Horses
+- LARGE IMAGE: 3 horses
+- ARTICLE (centered) in panel
+
+2. HISTORY SECTIOHN
+- 2-up panel layout
+- LEFT: image
+- RIGHT: article: REGULAR HEADLINE, ARTICLE
+
+3. CHRONOLOGY
+- HEADLINE: CHRONOLOGY
+- SERIES OF PANELS > EACH: STORY PANEL / IMAGE PANEL:.. RWD stack image pan on top whenever stack
