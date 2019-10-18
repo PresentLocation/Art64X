@@ -2,6 +2,8 @@
 
 Demonstration code of responsive video embed using Zurb Foundation responsive web design framework.
 
+Full documentation of the Foundation responsive toolset: https://foundation.zurb.com/sites/docs/responsive-embed.html
+
 -->
 <!doctype html>
 <html class="no-js" lang="en" dir="ltr">
@@ -10,17 +12,21 @@ Demonstration code of responsive video embed using Zurb Foundation responsive we
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	  
+<!-- THE FOLLOWING TWO LINES ARE ESSENTIAL. THEY LOAD FOUNDATION'S RESPONSIVE CSS LIBRARIES -->	  
     <link rel="stylesheet" href="http://www.amargosaoperahouse.org/meta/css/foundation.css">
     <link rel="stylesheet" href="http://www.amargosaoperahouse.org/meta/css/app.css">
   </head>
   <body>
     <div id=pageWrap>
 
+	<!-- THE FOLLOWING DIV IS ASSIGNED THE CLASS responsive-embed, WHICH OVERRIDES STATIC SIZING PROPERTIES IN THE INCOMING EMBED CODE, TO ENSURE THE VIDEO DISPLAYS IN A RESPONSIVE MANNER  -->    
     	<div class="responsive-embed" style="width: 80%; margin: 0 auto;">
 		<iframe width="560" height="315" src="https://www.youtube.com/embed/PDJtUhQRYJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
      </div>
 
+  <!-- THE FOLLOWING FOUR LINES ARE ESSENTIAL. THEY LOAD FOUNDATION'S RESPONSIVE JAVASCRIPT LIBRARIES -->	  
 	<script src="http://www.amargosaoperahouse.org/meta/js/vendor/jquery.js"></script>
     	<script src="http://www.amargosaoperahouse.org/meta/js/vendor/what-input.js"></script>
     	<script src="http://www.amargosaoperahouse.org/meta/js/vendor/foundation.js"></script>
