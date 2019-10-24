@@ -1,6 +1,8 @@
 # Art64X
 Archives for web design class demos and coursework taught for Art 645, Art 646, Art 647 at the Visual and Media Arts Department of Los Angeles City College.
 
+All content in this repository is shared as an Open Education Resource, and is licensed under a Creative Commons Attribution 4.0 International License.
+
 Art 645 teaches responsive web design.
 
 Art 646 teaches interactive web design.
