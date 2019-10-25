@@ -1,0 +1,178 @@
+<!--
+This codealong demo gives solutions to ball animations that move on each of the three 3D axes.
+-->
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+    <title>Art 64X - Bouncing Balls Demo 3D XYZ axes</title>
+        <style type='text/css' media=all>
+            #apples
+            {
+                width: 100px;
+                height: 100px;
+                border-radius: 50px;
+                margin: 0 auto;
+                -webkit-animation: Natalie 5s infinite, bounceX 0.5s infinite;
+                animation: Natalie 5s infinite, bounceX 0.5s infinite;
+                animation-direction: alternate;
+            }
+
+            #bananas
+            {
+                width: 80px;
+                height: 80px;
+                border-radius: 40px;
+                margin: 0 auto;
+                -webkit-animation: Pizza 5s infinite, bounceY 1s infinite;
+                animation: Pizza 5s infinite, bounceY 1s infinite;
+                animation-direction: alternate;
+            }
+
+            #pears
+            {
+                width: 100px;
+                height: 100px;
+                border-radius: 50px;
+                margin: 0 auto;
+                -webkit-animation: Ocean 5s infinite, bounceZ 2.5s infinite;
+                animation: Ocean 5s infinite, bounceZ 2.5s infinite;
+                animation-direction: alternate;
+            }
+
+
+        
+            h1
+            {
+                padding-left: 38px;
+                padding-top: 30px; 
+                -webkit-animation: Diamond 5s infinite;
+                animation: Diamond 5s infinite;
+            }
+        
+        #bananas h1
+            {
+                padding-left: 30px;
+                padding-top: 20px; 
+                -webkit-animation: Diamond 5s infinite;
+                animation: Diamond 5s infinite;
+            }
+        
+        
+        
+            @keyframes Natalie
+            {
+                from {background-color: pink; opacity: 0;}                
+                to {background-color: pink; opacity: .3;}   
+                to {background-color: fuschia; opacity: .6}
+                to {background-color: purple; opacity: 1;}
+            }
+            @-webkit-keyframes Natalie
+            {
+                from {background-color: pink; opacity: 0;}
+                to {background-color: pink; opacity: .3;} 
+                to {background-color: fuschia; opacity: .6}
+                to {background-color: purple; opacity: 1;}
+            }
+
+            @keyframes Pizza
+            {
+                from {background-color: red;}                
+                to {background-color: orange;}
+            }
+            @-webkit-keyframes Pizza
+            {
+                from {background-color: red;}                
+                to {background-color: orange;}
+            }
+
+         @keyframes Ocean
+            {
+                from {background-color: green;}                
+                to {background-color: blue;}
+            }
+            @-webkit-keyframes Ocean 
+            {
+                from {background-color: green;}                
+                to {background-color: blue;}
+            }
+            
+            
+            @-webkit-keyframes Diamond
+            {
+                from {color: blue;}
+                to {color: red;}
+                to {color: green;}
+            }            
+            @keyframes Diamond
+            {
+                from {color: blue;}
+                to {color: red;}
+                to {color: green;}
+            }
+ 
+            @-webkit-keyframes bounceZ
+            {
+                from {transform:  translate3d(-400px,0,0);}
+                to {transform: perspective(400px) translate3d(0,400px,400px);}
+              
+                to {transform: perspective(300px) translate3d(100px,0,400px);}
+                to {transform: perspective(200px) translate3d(-200px,-50px,400px);}
+            }           
+            @keyframes bounceZ
+            {
+                from {transform:  translate3d(-400px,0,0);}
+                to {transform: perspective(400px) translate3d(0,400px,400px);}
+              
+                to {transform: perspective(300px) translate3d(100px,0,400px);}
+                to {transform: perspective(200px) translate3d(-200px,-50px,400px);}
+              
+            }
+            
+            @keyframes bounceX
+            {
+                    from {transform: translate3d(-100px,0,0);}
+                to {transform: translate3d(100px,0,0);}                
+                
+            }
+            @-webkit-keyframes bounceX
+            {
+                    from {transform: translate3d(-100px,0,0);}
+                to {transform: translate3d(100px,0,0);}                
+                
+            }
+
+            @keyframes bounceY
+            {
+                    from {transform: translate3d(0,0,0);}
+                to {transform: translate3d(0,100px,0);}                
+                
+            }
+            @-webkit-keyframes bounceY
+            {
+                    from {transform: translate3d(0,0,0);}
+                to {transform: translate3d(0,100px,0);}                
+                
+            }
+
+            
+        </style>
+    </head>
+    <body>
+<!-- BEGIN BALL ELEMENT -->
+        <div id=apples>
+            <h1>A</h1>
+        </div>
+<!-- END BALL ELEMENT -->
+
+        <div id=bananas>
+            <h1>B</h1>
+        </div>
+
+        <div id=pears>
+            <h1>P</h1>
+        </div>
+
+
+    </body>
+</html>
