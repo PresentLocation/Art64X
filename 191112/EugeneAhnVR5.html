@@ -1,0 +1,27 @@
+<!--
+
+Bare bones A-Frame VR setup
+
+-->
+
+
+<!DOCTYPE HTML>
+<html>
+	<head>
+	<title>Art 64X - A-Frame VR starter</title>
+		<script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
+		<script src="https://unpkg.com/aframe-environment-component/dist/aframe-environment-component.min.js"></script>
+	</head>
+
+	<body>
+
+	<a-scene>
+		<a-assets>
+			<img id=photosphere src=PedroLopez_photosphere.jpg>
+		</a-assets>
+	
+		<a-sky src="#photosphere"></a-sky>
+	</a-scene>
+
+	</body>
+</html>
