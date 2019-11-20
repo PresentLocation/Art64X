@@ -5,7 +5,7 @@
 
 ### Project: Amargosa Opera House - Animals Page
 
-### Review URL: http://www.amargosaoperahouse.com/animals/
+### Review URL: http://www.amargosaoperahouse.org/animals/
 
 - UPDATE page title to "Animals of Death Valley Junction"
 - UPGRADE horse hero image element into horse slideshow element. Choose six images for slideshow
