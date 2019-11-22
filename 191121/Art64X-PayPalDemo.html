@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Art 64X - Essential shopping cart elements with PayPal</title>
+    </head>
+    <body>
+        
+        <div style="width: 100%; text-align: center;">
+            
+            <p><img src=something.jpg></p>
+            <h2>Pizza cutter</h2>
+            <p>This pizza cutter is equipped with a mini camera so that you can film your pizza getting cut!
+            <p>$12</p>
+            <div id="paypal-button-container"></div>
+<script src="https://www.paypal.com/sdk/js?client-id=AWkvVZMlISj3NH4VBQdz5eOHXqr7APebMWRjbc9tKNYaDz4IKeNXD1PXjtEglU_4MyrvE-nzoLXkgy1m&currency=USD" data-sdk-integration-source="button-factory"></script>
+<script>
+    paypal.Buttons({
+        style: {
+            shape: 'pill',
+            color: 'white',
+            layout: 'horizontal',
+            label: 'buynow',
+            
+        },
+        createOrder: function(data, actions) {
+            return actions.order.create({
+                purchase_units: [{
+                    amount: {
+                        value: '12'
+                    }
+                }]
+            });
+        },
+        onApprove: function(data, actions) {
+            return actions.order.capture().then(function(details) {
+                alert('Transaction completed by ' + details.payer.name.given_name + '!');
+            });
+        }
+    }).render('#paypal-button-container');
+</script>
+        </div>
+    </body>
+   
+</html>
