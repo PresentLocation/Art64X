@@ -45,7 +45,7 @@ Website targets users who love to browse and share free internet content directl
 - Design studies, presented as PDFs or HTML web pages, that depict 1-3 approaches on the presentation of brand and identity. This includes work related to the website logo; its presentation; color palette schemes for use on web pages; all typography plans addressing all key text presentations; design of visual elements such as buttons, forms, panel boxes, etc.; and considerations on how the design accommodates a responsive presentation approach.
 - A style guide that articulates the use of color, type, and layout rules as it relates to the design work developed.
 - Example layouts of the home page, a card browsing page, a card selection page, an email invitation, and a card viewing page. These can be prepared as either static design drafts (PSD/PDF), or as product drafts (HTML).
-- Link to all source work in a format (AI, PSD, InDesign, Word, etc.) that facilitates further development and use of the design concepts.
+- Link to all source work in respective production formats (AI, PSD, InDesign, Word, etc.) to facilitate further development and use of the design concepts.
 
 #### TONE
 - Irreverent
