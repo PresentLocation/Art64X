@@ -1,6 +1,4 @@
-## ANTI-CARD.COM
-### Design Brief
-
+## DESIGN BRIEF: ANTI-CARD.COM
 
 #### KEY PARTICIPANTS
 - Client: Laurel Paley
