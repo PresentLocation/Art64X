@@ -37,7 +37,7 @@ Website targets users who love to browse and share free internet content directl
 - Quick-thinking
 
 #### PROJECT TIMELINE SURVEY
-- PAST: In Spring 2019, a design draft was produced exploring the key stages of the website user experience. Location: http://www.anti-card.com.
+- PAST: In Spring 2019, a provisional design draft was produced exploring the key stages of the website user experience. Location: http://www.anti-card.com. The project has no attachments to this design draft.
 - CURRENT: New design is being explored and formalized.
 - FUTURE: Functionality and design will be integrated into a fully functioning website. 
 
