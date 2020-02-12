@@ -1,7 +1,8 @@
-# Art 64X class notes
+# Class notes
 Tuesday, February 11, 2020
 Week 1
 Class 1
+Chem 210 Computer Lab
 
 ## Discussion
 ### What do these web sites have in common?
