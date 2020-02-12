@@ -17,8 +17,8 @@ Class 1
 ## Exercise: Personal Name Card
 - Convert the Hello World demo into web page presenting personal content
 
-1. Image of a personal nature (use <img>)
-2. Name (use <h1>)
-3. (use <h2>)
-4. List of four items (use <p>
+1. Image of a personal nature (hint: use HTML tag img)
+2. Name (hint: use HTML tag h1)
+3. (hint: use HTML tag h2)
+4. List of four items (hint: use HTML tag p)
   
