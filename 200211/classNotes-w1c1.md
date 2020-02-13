@@ -16,12 +16,13 @@ Chem 210 Computer Lab
 ## Demo: Hello World
 - Introduce HTML (hypertext markup language)
 - Introduce CSS
+- Link to demo HTML: http://art64x.codeyourheartout.com/sandbox/01066542/helloWorld.html
 
 ## Exercise: Personal Name Card
 Convert the Hello World demo into web page presenting personal content
 
 1. Image of a personal nature (hint: use HTML tag img)
 2. Name (hint: use HTML tag h1)
-3. (hint: use HTML tag h2)
-4. List of four items (hint: use HTML tag p)
+3. Label text for the list that follows (hint: use HTML tag h2)
+4. List of four items, such as favorite foods (hint: use HTML tag p)
   
