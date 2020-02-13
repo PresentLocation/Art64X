@@ -9,7 +9,6 @@ Chem 210 Computer Lab
 ## Discussion
 ### What do these web sites have in common?
 - https://www.lacitycollege.com
-- https://www.dribbble.com
 - https://www.behance.com
 
 
