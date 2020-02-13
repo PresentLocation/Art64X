@@ -12,10 +12,9 @@ Chem 210 Computer Lab
 - https://www.behance.com
 
 
-## Demo: Hello World
-- Introduce HTML (hypertext markup language)
-- Introduce CSS
-- Link to demo HTML: http://art64x.codeyourheartout.com/sandbox/01066542/helloWorld.html
+## Demo: Hello World (http://art64x.codeyourheartout.com/sandbox/01066542/helloWorld.html)
+- Introduce HTML (HyperText Markup Language) - Used to structure our web designs
+- Introduce CSS (Cascading Style Sheets) - Used to decorate or define behavior of our web designs
 
 ## Exercise: Personal Name Card
 Convert the Hello World demo into web page presenting personal content
