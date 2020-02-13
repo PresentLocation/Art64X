@@ -16,6 +16,7 @@ Chem 210 Computer Lab
 The demo file can be viewed at http://art64x.codeyourheartout.com/sandbox/01066542/helloWorld.html
 - Introduce HTML (HyperText Markup Language) - Used to structure our web designs
 - Introduce CSS (Cascading Style Sheets) - Used to decorate or define behavior of our web designs
+- Reference: <a href=https://codepen.io/codeyourheartout/pen/xxKpvVV target=_blank>Anatomy of a line of HTML code</a>
 
 ## Exercise: Personal Name Card
 Convert the Hello World demo into web page presenting personal content
