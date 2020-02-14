@@ -8,7 +8,7 @@ Chem 210 Computer Lab
 - Using Windows Notepad, spend time working on the Personal Introduction exercise
 
 ## Demo (646): PHP introduction
-The demo file can be viewed at http://www.codeyourheartout.com/examples/randomDieRoll/ and its code can be downloaded at https://github.com/PresentLocation/randomDieRoll
+The demo can be viewed at http://www.codeyourheartout.com/examples/randomDieRoll/ and the code can be downloaded at https://github.com/PresentLocation/randomDieRoll
 - PHP is its own scripting language separate from HTML, CSS, JavaScript
 - PHP is server-side scripting, which means PHP is processed before the document leaves the server and arrives at the browser.
 - PHP is used to process data, run logic, and generate dynamic content that is to be used in some way in the document.
