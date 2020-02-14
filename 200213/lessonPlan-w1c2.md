@@ -15,13 +15,13 @@
 - Container as an Internet organizer: Review <a href=https://codepen.io/codeyourheartout/pen/eYNpqLP>anatomy of a URL</a> as way to map Internet space and place
 - Container as a design motif: Review three websites to identify the use of containers to achieve design goals.
 - Container as organizer for course content: <a href=http://www.Art64X.com/syllabus/ target=_blank>Syllabus</a> and <a href=http://www.Art64X.com target=_blank>website</a>
-- Container as infrastructure for course activity: course sandbox</a>, <a href=https://github.com/PresentLocation/Art64X/ target=_blank>Github</a> and <a href=https://codepen.io/codeyourheartout target=_blank>CodePen
+- Container as infrastructure for course activity: course sandbox</a>, <a href=https://github.com/PresentLocation/Art64X/ target=_blank>Github</a> and <a href=https://codepen.io/codeyourheartout target=_blank>CodePen</a>
 - Container as a design technique: HTML's core paradigm
 
 
 ## Demo: Coding containers
 
-- HTML tags DIV, SECTION, ARTICLE, SPAN, A and their key corresponding attributes STYLE, ID, HREF, TARGET
+- HTML tags DIV, <strikethrough style="color: red;">SECTION, ARTICLE</strikethrough>, SPAN, A and their key corresponding attributes STYLE, ID, HREF, TARGET
 - CSS sizing properties: width, height
 - CSS units of measure: px, %, vh, vw
 
