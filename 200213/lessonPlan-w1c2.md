@@ -21,7 +21,7 @@
 
 ## Demo: Coding containers
 
-- HTML tags DIV, <strikethrough style="color: red;">SECTION, ARTICLE</strikethrough>, SPAN, A and their key corresponding attributes STYLE, ID, HREF, TARGET
+- HTML tags DIV, ![#f03c15]SECTION, ARTICLE, SPAN, A and their key corresponding attributes STYLE, ID, HREF, TARGET
 - CSS sizing properties: width, height
 - CSS units of measure: px, %, vh, vw
 
