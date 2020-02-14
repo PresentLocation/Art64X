@@ -3,14 +3,14 @@
 - Today's theme: CONTAINER
 
 
-## WORKSPACE
+## Workspace
 
 - The first 30 minutes of every class acts as a workspace container. Students can expect to spend the first portion of class in self-directed activity. This time can be used to work on assignments, finish up homework, use the lab facilities to transfer files to the web, etc.
 - 645: Today, the main activity is to work on the exercise initiated last class: The Personal Introduction exercise.
 - 646: Special intevention of workspace time to introduce today's activity, an introduction to PHP and the Diceroll exercise.
 
 
-## LECTURE
+## Lecture
 
 - Container as an Internet organizer: Review <a href=https://codepen.io/codeyourheartout/pen/eYNpqLP>anatomy of a URL</a> as way to map Internet space and place
 - Container as a design motif: Review three websites to identify the use of containers to achieve design goals.
@@ -19,14 +19,14 @@
 - Container as a design technique: HTML's core paradigm
 
 
-## DEMO: CODING CONTAINERS
+## Demo: Coding containers
 
 - HTML tags DIV, SECTION, ARTICLE, SPAN, A and their key corresponding attributes STYLE, ID, HREF, TARGET
 - CSS sizing properties: width, height
 - CSS units of measure: px, %, vh, vw
 
 
-## ACTIVITIES TODAY
+## Activities today
 
 - [ All levels ] - Learn how to access Art 64X code repository on GitHub
 - [ All levels ] - Learn how to access course coding workbook on CodePen
