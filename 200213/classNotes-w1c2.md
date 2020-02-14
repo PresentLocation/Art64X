@@ -55,7 +55,7 @@ Image should be sourced from an absolute URL because CodePen cannot host images.
 
 Complete the work done on this exercise in Notepad, and post it as a pen to your new CodePen account.
 
-## Exercise (646): Diceroll
+## Exercise (646): Die roll as dynamic content
 Using today's demo of PHP as a starting point, develop a PHP app that simulates the rolling of a die.
 
 - Write the entire script in PHP Fiddle
@@ -67,3 +67,5 @@ Using today's demo of PHP as a starting point, develop a PHP app that simulates 
 - If you wish, you can deviate from the die motif and design the web app to present some other set of images randomly
 
 Complete the work done on this exerise in PHP Fiddle, and post it as a pen to your new CodePen account. Note this PHP app will not work in CodePen, but at least you have saved it and can host the file somewhere else later.
+
+The demo can be viewed at http://www.codeyourheartout.com/examples/randomDieRoll/ and the code can be downloaded at https://github.com/PresentLocation/randomDieRoll
