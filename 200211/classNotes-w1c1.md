@@ -18,7 +18,7 @@ The demo file can be viewed at http://art64x.codeyourheartout.com/sandbox/010665
 - Introduce CSS (Cascading Style Sheets) - Used to decorate or define behavior of our web designs
 - Reference: <a href=https://codepen.io/codeyourheartout/pen/xxKpvVV target=_blank>Anatomy of a line of HTML code</a>
 
-## Exercise: Personal Name Card
+## Exercise: Personal Introduction
 Convert the Hello World demo into web page presenting personal content
 
 1. Image of a personal nature (hint: use HTML tag img)
