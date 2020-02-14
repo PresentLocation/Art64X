@@ -21,7 +21,7 @@
 
 ## Demo: Coding containers
 
-- HTML tags DIV, ![#f03c15]SECTION, ARTICLE, SPAN, A and their key corresponding attributes STYLE, ID, HREF, TARGET
+- HTML tags DIV, ~~SECTION, ARTICLE,~~ SPAN, A and their key corresponding attributes STYLE, ~~ID,~~ HREF, ~~TARGET~~
 - CSS sizing properties: width, height
 - CSS units of measure: px, %, vh, vw
 
@@ -33,7 +33,7 @@
 - [ All levels ] - Create free CodePen account
 - [ Art 645 only ] - Pen the Hello World exercise
 - [ Art 645 only ] - Pen the Personal Introduction exercise
-- [ Art 645 only ] - Pen the Three Websites exercise
+- ~~[ Art 645 only ] - Pen the Three Websites exercise~~
 - [ Art 646 only ] - Create free PHP Fiddle account
 - [ Art 646 only ] - Work on the Diceroll exercise
 
