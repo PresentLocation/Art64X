@@ -25,7 +25,9 @@
 - New PHP: concatenation: "."
 - New PHP: querystring: $_GET[]
 - New PHP" if/else
+
 ## Syllabus review
+- Access the syllabus here: http://www.art64X.com/syllabus
 
 ## End-of-week archetype activity
 - Pick next week's archetype
@@ -78,7 +80,7 @@
 - Requirement: App displays an app title in an HTML h1 tag that communicates the function or personality of the app
 - Requirement: App embodies the spirit of any archetype invoked during weeks 1-3 of class
 - Requirement: Document exactly how you satisfy all the requirements of this assignment in a PHP comment tag
-- Requirement: Use at least two php elements: rand(), switch, custom function
+- Requirement: Use at least three php elements: rand(), switch, custom function, querystring, concatenation, if statement
 - Tip: Be creative! This assignment asks you to access personal creativity while applying basic PHP techniques learned so far in class
 - Post to http://www.Art64X.com/upload.php as filename YOURNAMEHERE-phpApp1.php
 - Due next Tuesday
