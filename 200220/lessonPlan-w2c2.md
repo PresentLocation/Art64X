@@ -50,7 +50,7 @@
 - Objective: The rework should offer a revised design that is more visually impactful.
 - Post to http://www.Art64X.com/upload.php as filename YOURNAMEHERE-moreDiva.html
 
-## Homework
+## Homework (!!!)
 
 ### Personal data gathering [ All levels ]
 - Keep track of everything you eat this weekend (Saturday and Sunday). Make a list any way you can.
@@ -58,8 +58,28 @@
 - List both food and websites in a CodePen pen. No HTML is required for this.
 - Due next Tuesday.
 
+### Syllabus Review [ All levels ]
+- Review the syllabus for content. What would you add, modify, remove? Make a list of ideas.
+- Review the syllabus for design. How would you design the document? Make a list of ideas.
+- List both content and design notes in a CodePen pen. No HTML is required for this.
+- Due next Tuesday.
+
 ### Even More Divas [ 645 ]
 - Challenge: Rework the Personal Introductions of at least two other students using the contrast principle of visual design
 - Process: Follow the guidelines described in the More Diva exercise
 - Post each rework to http://www.Art64X.com/upload.php as filename YOURNAMEHERE-evenMoreDiva-THEIRNAMEHERE.html
 - Due next Tuesday
+
+### PHP App 1 [ 646 ]
+- Challenge: Design and build a PHP app that provides some kind of user-initiated experience
+- Requirement: App provides an interaction prompt to user, such as a link
+- Requirement: PHP script contains programming to facilitate at least two user interface views, such as (1) a prompt view and (2) a result view
+- Requirement: App uses at least one graphic that you produce yourself
+- Requirement: App displays an app title in an <h1> tag that communicates the function or personality of the app
+- Requirement: App embodies the spirit of any archetype invoked during weeks 1-3 of class
+- Requirement: Document exactly how you satisfy all the requirements of this assignment in a PHP comment tag
+- Requirement: Use at least two php elements: rand(), switch, custom function
+- Tip: Be creative! This assignment asks you to access personal creativity while applying basic PHP techniques learned so far in class
+- Post to http://www.Art64X.com/upload.php as filename YOURNAMEHERE-phpApp1.php
+- Due next Tuesday
+
