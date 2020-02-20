@@ -1,7 +1,7 @@
 # Lesson Plan
 
 - This week's archetype: DIVA
-- Today's topic: IMAGE
+- Today's topic: CONTRAST
 
 ## Workspace
 
@@ -75,7 +75,7 @@
 - Requirement: App provides an interaction prompt to user, such as a link
 - Requirement: PHP script contains programming to facilitate at least two user interface views, such as (1) a prompt view and (2) a result view
 - Requirement: App uses at least one graphic that you produce yourself
-- Requirement: App displays an app title in an <h1> tag that communicates the function or personality of the app
+- Requirement: App displays an app title in an HTML h1 tag that communicates the function or personality of the app
 - Requirement: App embodies the spirit of any archetype invoked during weeks 1-3 of class
 - Requirement: Document exactly how you satisfy all the requirements of this assignment in a PHP comment tag
 - Requirement: Use at least two php elements: rand(), switch, custom function
