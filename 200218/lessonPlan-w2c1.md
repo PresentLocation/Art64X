@@ -7,7 +7,7 @@
 ## Workspace
 
 - 645: Finish Personal Introduction exercise.
-- 646: Special intevention of workspace time to introduce today's activity, an introduction to PHP and the Diceroll exercise.
+- 646: Special intervention of workspace time to introduce today's activity, an introduction to PHP and the Dice Roll exercise.
 
 
 ## Lecture
