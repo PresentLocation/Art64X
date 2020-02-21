@@ -25,6 +25,8 @@
 - New PHP: concatenation: "."
 - New PHP: querystring: $_GET[]
 - New PHP" if/else
+- Demo: http://www.Art64X.com/pages/phpDemoRandomArchetype.php
+- Demo code: https://github.com/PresentLocation/Art64X/blob/master/200220/phpDemoRandomArchetype.php
 
 ## Syllabus review
 - Access the syllabus here: http://www.art64X.com/syllabus
