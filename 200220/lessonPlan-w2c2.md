@@ -2,7 +2,7 @@
 
 - This week's archetype: DIVA
 - Today's topic: CONTRAST
-```diff - - Debrief Notes: Items in red did not happen ```
+
 
 ## Workspace
 
