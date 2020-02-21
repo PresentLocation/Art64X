@@ -15,9 +15,14 @@
 - Refactor Dice Roll exercise utilizing more compact logic, shifting from a control structure approach to concatenation approach.
 - New PHP: array()
 - New PHP: concatenation: "."
+- Demo: http://www.Art64X.com/pages/phpDemoRandomArchetype.php
+- Demo code: https://github.com/PresentLocation/Art64X/blob/master/200220/phpDemoRandomArchetype.php
 
 ## Lecture - Contrast
 - Mapping the use of contrast in typography (form or color: light/dark), color (foreground/background), and sizing (large/small)
+- Review critique of Ana, David, Anthony.
+- Work session: utilize contrast revision approach to make improvements to design's effectiveness. This approach quantifies and qualifies aesthetics vis-a-vis purpose.
+- Takeaway: Design is not an arbitrary or vanity act.
 
 ## Syllabus review
 - Access the syllabus here: http://www.art64X.com/syllabus
