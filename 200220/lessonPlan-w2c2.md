@@ -1,10 +1,6 @@
 # Lesson Plan
-
 - This week's archetype: DIVA
 - Today's topic: CONTRAST
-```diff
-- Note: Items flagged with red note indicate planned topic did not actually happen in class
-```
 
 ## Workspace
 
@@ -17,6 +13,9 @@
 - Low contrast for blending effect
 
 ## Demo [ 645 ]- Essential methods of working with image
+```diff
+- Follow up 200220-1800: This topic was planned but not presented in class. This topic will be rescheduled for another class.
+```
 - Building blocks of the visual web: https://codepen.io/codeyourheartout/pen/YzXWePm
 - Building methods of the visual web: foreground element, background element, layered element
 - Use of common image production tools: Photoshop vs Photopea
@@ -32,6 +31,9 @@
 - Demo code: https://github.com/PresentLocation/Art64X/blob/master/200220/phpDemoRandomArchetype.php
 
 ## Syllabus review
+```diff
+- Follow up 200220-1800: This topic was planned but not presented in class. This topic will be rescheduled for another class.
+```
 - Access the syllabus here: http://www.art64X.com/syllabus
 
 ## End-of-week archetype activity
@@ -58,7 +60,9 @@
 - Post to http://www.Art64X.com/upload.php as filename YOURNAMEHERE-moreDiva.html
 
 ## Homework (!!!)
-
+```diff
+- Follow up 200220-1800: All homework items listed here were planned but not formally introduced in class. These items will be formally introduced in a future class, and due dates will be adjusted.
+```
 ### Personal data gathering [ All levels ]
 - Keep track of everything you eat this weekend (Saturday and Sunday). Make a list any way you can.
 - Make a list of every website you visit this weekend (Saturday and Sunday). Make a list any way you can.
