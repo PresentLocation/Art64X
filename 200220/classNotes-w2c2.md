@@ -1,5 +1,4 @@
 # Class Notes
-
 - This week's archetype: DIVA
 - Today's topic: CONTRAST
 
@@ -12,15 +11,19 @@
 - 646: Special intervention of workspace time to introduce today's activity: adapting Dice Roll exercise into Archetype app.
 
 ## Demo [ 646 ] - Basic PHP
-- Refactor Dice Roll exercise utilizing more compact logic, shifting from a control structure approach to concatenation approach.
+- Refactor Dice Roll exercise utilizing more compact logic, shifting handling of random key from a control structure approach to concatenation approach.
+- New concept: Refactoring
 - New PHP: array()
 - New PHP: concatenation: "."
-- Demo: http://www.Art64X.com/pages/phpDemoRandomArchetype.php
-- Demo code: https://github.com/PresentLocation/Art64X/blob/master/200220/phpDemoRandomArchetype.php
+- Demonstration: Refactoring switch logic
+- Demo results: http://www.Art64X.com/pages/phpDemoRandomArchetype.php
+- Demo source code: https://github.com/PresentLocation/Art64X/blob/master/200220/phpDemoRandomArchetype.php
 
 ## Lecture - Contrast
-- Mapping the use of contrast in typography (form or color: light/dark), color (foreground/background), and sizing (large/small)
+- Contrast establishes difference. Difference invites comparison. Comparison activates engagement. 
+- Review the use of contrast in typography (light/dark, large/small, ornate/clean), color (foreground/background, tint/shade), size (large/small), and space (close/far, low/high, etc.)
 - Review critique of Ana, David, Anthony.
+- Intelligent use of contrast theory in design decisions can make the design more engaging. This can contribute to various success vectors including accessibility, memorable, convincing, aesthetically pleasing.
 - Work session: utilize contrast revision approach to make improvements to design's effectiveness. This approach quantifies and qualifies aesthetics vis-a-vis purpose.
 - Takeaway: Design is not an arbitrary or vanity act.
 
@@ -28,6 +31,7 @@
 - Access the syllabus here: http://www.art64X.com/syllabus
 - Acessible version is 100% content, 0% design. Look how inaccessible it is without design.
 - Takeaway: Design is important. Design gives content value.
+- We will review and work on the syllabus next week.
 
 ## End-of-week archetype activity
 - Pick next week's archetype
@@ -37,11 +41,12 @@
 
 ### Archetype app [ 646 ]
 - Challenge: Design and build a PHP app that presents 3 or more archetypes when user initiates the program in some way.
-- Requirement: App should choose archetypes from a list of minimum 8 archetypes
+- Requirement: App should choose archetypes from a list of minimum 8 archetypes, which you will select from your own research
 - Requirement: App should present selected archetypes in a way that is visually non-hierarchical
 - Use php rand()
 - Use one of the following in some way: php switch, php array()
 - Use all of the following html tags in some way: a, img, div 
+- User should understand how to use the app and find the results useful. UI should be intuitive and/or instructive.
 - Post to http://www.Art64X.com/upload.php as filename YOURNAMEHERE-archetypePicker.php
 
 ### More Diva [ 645 ]
@@ -83,6 +88,7 @@ The following assignments were outlined in the day's lesson plan, but were not e
 - Requirement: App embodies the spirit of any archetype invoked during weeks 1-3 of class
 - Requirement: Document exactly how you satisfy all the requirements of this assignment in a PHP comment tag
 - Requirement: Use at least three php elements: rand(), switch, custom function, querystring, concatenation, if statement
+- User should understand how to use the app and find the results useful. UI should be intuitive and/or instructive.
 - Tip: Be creative! This assignment asks you to access personal creativity while applying basic PHP techniques learned so far in class
 - Post to http://www.Art64X.com/upload.php as filename YOURNAMEHERE-phpApp1.php
 - Due next Tuesday
