@@ -2,7 +2,9 @@
 
 - This week's archetype: DIVA
 - Today's topic: CONTRAST
-
+```diff
+- Note: Items flagged with red note indicate planned topic did not actually happen in class
+```
 
 ## Workspace
 
