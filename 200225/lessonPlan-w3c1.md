@@ -24,5 +24,5 @@
 ## Activities today
 - [ Art 645 only ] - Work on archetype web panel. Due Thursday.
 - [ Art 646 only ] - Continue work on PHP app 1. Due next Tuesday
-
+- Time permitting - Introduce Komodo Edit + FTP to personal sandbox subdirectory
 
