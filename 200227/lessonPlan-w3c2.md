@@ -3,6 +3,12 @@
 - This week's archetype: MASTERMIND
 - Today's topic: VISUAL HIERARCHY
 
+
+
+## Workspace
+- 645: Finish and submit archetype web panel
+- 646: Work on Archetype app. Demo: Implementing MySQL database with PHP create, read, and update functions.
+
 ## Lecture - Visual hierarchy
 - Contrast techniques are part of the larger agenda of establishing visual heirarchy in our web designs
 - Visual hierarchy proposes design solutions that address the way users see
@@ -21,3 +27,9 @@
 - Define, describe, and see examples of layout elements hero, stack and grid
 - Code layout elements hero, stack, and grid
 - Example: https://codepen.io/codeyourheartout/pen/Powgdbw
+
+## Activities today
+- [ Art 645 only ] - More Archetype Web Panels. Due Tuesday.
+- [ Art 645 only ] - Personal Scroller Layout. Due Tuesday.
+- [ Art 646 only ] - Continue work on PHP app 1. Due next Tuesday
+- Time permitting - Introduce Komodo Edit + FTP to personal sandbox subdirectory
