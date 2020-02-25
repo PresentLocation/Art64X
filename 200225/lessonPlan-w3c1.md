@@ -9,9 +9,9 @@
 - 645: Work on assignments More Diva, Even More Divas, Personal Data Gathering
 - 646: Work on Archetype app. Goals: (1) achieve primary function, (2) implement design, (3) prepare additional function allowing user to select one archetype via HTML form. Present by 2 p.m. check in.
 
-## Lecture - Mastermind
+## Activity - Mastermind
 
-## Demo: Designing a splash panel
+## Demo: Designing a web panel
 - Use of 2D layout controls to achieve sense of 3D perspective
 - Compositing elements using HTML5
 - Use of HTML5 div
@@ -22,7 +22,7 @@
 
 ## Activities today
 
-- [ Art 645 only ] - Work on archetype splash panels. Due Thursday.
+- [ Art 645 only ] - Work on archetype web panels. Due Thursday.
 - [ Art 646 only ] - Continue work on PHP app 1 . Due next Tuesday
 
 
