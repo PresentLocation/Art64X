@@ -10,6 +10,7 @@
 - 646: Work on Archetype app. Goals: (1) achieve primary function, (2) implement design, (3) prepare additional function allowing user to select one archetype via HTML form. Present by 2 p.m. check in.
 
 ## Activity - Mastermind
+- Reference: https://www.careerexplorer.com/archetypes/mastermind/
 
 ## Demo: Designing a web panel
 - Use of 2D layout controls to achieve sense of 3D perspective
