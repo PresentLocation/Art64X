@@ -1,0 +1,28 @@
+# Lesson Plan
+
+- This week's archetype: MASTERMIND
+- Today's topic: BIG PICTURE
+- Today's food: WALNUTS
+
+## Workspace
+
+- 645: Work on assignments More Diva, Even More Divas, Personal Data Gathering
+- 646: Work on Archetype app. Goals: (1) achieve primary function, (2) implement design, (3) prepare additional function allowing user to select one archetype via HTML form. Present by 2 p.m. check in.
+
+## Lecture - Mastermind
+
+## Demo: Designing a splash panel
+- Use of 2D layout controls to achieve sense of 3D perspective
+- Compositing elements using HTML5
+- Use of HTML5 div
+- Use of CSS position with relative and absolute
+- Use of CSS z-index
+- Use of CSS top, left, right, bottom
+- Use of CSS overflow
+
+## Activities today
+
+- [ Art 645 only ] - Work on archetype splash panels. Due Thursday.
+- [ Art 646 only ] - Continue work on PHP app 1 . Due next Tuesday
+
+
