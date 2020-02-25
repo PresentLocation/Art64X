@@ -15,11 +15,11 @@
 ## Demo: Designing a web panel
 - Use of 2D layout controls to achieve sense of 3D perspective
 - Compositing elements using HTML5
-- Use of HTML5 div
-- Use of CSS position with relative and absolute
-- Use of CSS z-index
-- Use of CSS top, left, right, bottom
-- Use of CSS overflow
+- Use of HTML5 div https://developer.mozilla.org/en-US/docs/Web/HTML/Element/div
+- Use of CSS position with relative and absolute https://www.w3schools.com/css/css_positioning.asp
+- Use of CSS z-index https://developer.mozilla.org/en-US/docs/Web/CSS/z-index
+- Use of CSS top, right, bottom, left https://css-tricks.com/almanac/properties/t/top-right-bottom-left/
+- Use of CSS overflow with hidden and visible https://www.w3schools.com/css/css_overflow.asp
 
 ## Activities today
 - [ Art 645 only ] - Work on archetype web panel. Due Thursday.
