@@ -9,7 +9,7 @@
 
 ## Activity - Mastermind
 - Reference: https://www.careerexplorer.com/archetypes/mastermind/
-- Collaborative work: Qualities/attributes, examples, opportunities, 
+- Collaborative work: Qualities/attributes, examples, opportunities, be aware.
 - Design work: Translate research and analysis work into assets and content for a web design activity presenting this archetype.
 
 ## Demo: Designing a web panel
