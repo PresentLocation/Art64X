@@ -4,7 +4,7 @@
 - Today's food: WALNUTS
 
 ## Class intro
-- Hello Mastermind. Hello walnuts. Hello chocolate. Both are brain food? Both are medicine? Wow, how's that for a big picture showing itself.
+- Hello Mastermind. Hello walnuts. Hello chocolate. Both are brain food? Both are medicine? Wow, how's that for a big picture revealing itself.
 - The many benefits of walnuts: https://www.healthline.com/nutrition/benefits-of-walnuts
 - The most popular walnut pairings: https://walnuts.org/how-to/flavor-pairings-with-walnuts/
 - Using tags to explore a semantic approach to understanding walnuts: https://codepen.io/codeyourheartout/pen/bGdqWdZ
