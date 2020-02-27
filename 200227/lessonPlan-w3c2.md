@@ -35,7 +35,8 @@
 - Example: https://codepen.io/codeyourheartout/pen/Powgdbw
 
 ## End-of-week archetype activity
-- Pick next week's archetype
+- Reflections on this week's archetype, MASTERMIND
+- Selection of next week's archetype, ???
 
 ## Assignment details
 
