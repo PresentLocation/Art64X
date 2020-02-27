@@ -15,6 +15,8 @@
 - Working with MySQL arrays with generic $row[];
 - Essential query components: SELECT, FROM, WHERE, ORDER, LIMIT
 - Apply this to the Archetype voting app project
+- PHP + MySQL overview: https://www.tutorialrepublic.com/php-tutorial/php-mysql-introduction.php
+- MySQLi reference: https://www.php.net/manual/en/book.mysqli.php
 
 ## Lecture - Visual hierarchy
 - Contrast techniques are part of the larger agenda of establishing visual heirarchy in our web designs
@@ -41,7 +43,21 @@
 ## Assignment details
 
 ### PHP App 1 [ 646 ] 
-- Tue next Thursday
+- Revised due date: Next Thursday
+- Next Tuesday class start: Present concept to 646 for review and notes
+- Next Thursday class end: Present apps to class
+- Challenge: Design and build a PHP app that provides some kind of user-initiated experience
+- Requirement: App provides an interaction prompt to user, such as a link
+- Requirement: PHP script contains programming to facilitate at least two user interface views, such as (1) a prompt view and (2) a result view
+- Requirement: App uses at least one graphic that you produce yourself
+- Requirement: App displays an app title in an HTML h1 tag that communicates the function or personality of the app
+- Requirement: App embodies the spirit of any archetype invoked during weeks 1-3 of class
+- Requirement: Document exactly how you satisfy all the requirements of this assignment in a PHP comment tag
+- Requirement: Use at least three php elements: rand(), switch, custom function, querystring, concatenation, if statement
+- Tip: Be creative! This assignment asks you to access personal creativity while applying basic PHP techniques learned so far in class
+- Tip: Keep it simple! Show off your design skills, your DIVA, and your MASTERMIND.
+- Tip: Think of good jokes. They are short and sweet. They have a punchline. They surprise and delight. Apps are the like jokes. Good ones are short and sweet, they provide a punchline quickly, and user retention is based on ability to delight.
+- Post to http://www.Art64X.com/upload/ as filename YOURNAMEHERE-phpApp1.php
 
 ### More Archetype Web Panels [ 645 ] 
 - Create a web panel for each weekly archetype
