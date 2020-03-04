@@ -1,6 +1,6 @@
 # Lesson Plan
 - This week's archetype: JESTER
-- Today's topic: DIVERTIDO
+- Today's Theme: DIVERTIDO
 - Today's food: JELLY BEANS
 
 ## Workspace
