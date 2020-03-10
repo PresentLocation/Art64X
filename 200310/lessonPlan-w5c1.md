@@ -49,3 +49,8 @@
 - Create a function (U) that updates existing primary content in database
 - Use phpMyAdmin to develop and refine the MySQL queries that you can use in your PHP script
 - Upload all pages, assets, and scripts used to create this control panel in your personal sandbox subdirectory in a folder named /archetypeAdmin/
+
+### Week 5 reflection actibity
+- Create a web page. Can be staged on CodePen, the general upload page, or your personal sandbox.
+- Design a page that presents your original personal reflection.
+- Reflection prompt: "How my understanding of web design has changed in five weeks"
