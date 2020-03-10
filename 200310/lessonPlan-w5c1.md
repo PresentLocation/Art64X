@@ -3,17 +3,20 @@
 - Today's Theme: TOTALLY NUTS
 
 ## Hello website
-- Log in to course website
+- "Log in"
+- Dashboard links
+- "Log out"
 
 ## Weekly archetype vote
 - Use course website to access special voting tool
 - Vote on this week's archetype
-- Review outcome of bote
+- Review outcome of vote
 - Explore design concept of function
 - Explore process concept of functional specification
 
 ## Workspace
-- Work on submitting coursework assignments
+- Work on preparing assignments for submission
+- Submission party on Thursday!
 
 ## Links [ 645 ]
 - HTML tag: a (anchor)
