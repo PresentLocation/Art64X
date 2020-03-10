@@ -1,5 +1,7 @@
 # Compiling master assignment list
-This is a list of assignments, to date.
+- This is a list of assignments, to date.
+- This is a working document. Details are subject to revision.
+- Items on this list will be formalized on http://www.Art64X.com/assignments/
 
 ## Exercise: Personal Introduction
 Convert the Hello World demo into web page presenting personal content
