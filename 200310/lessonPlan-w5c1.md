@@ -1,6 +1,6 @@
 # Lesson Plan
 - This week's archetype: TO BE DECIDED TODAY
-- Today's Theme: TOTALLY NUTS
+- Today's Theme: NUTS
 
 ## Hello website
 - "Log in"
