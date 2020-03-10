@@ -63,10 +63,7 @@ The demo can be viewed at http://www.codeyourheartout.com/examples/randomDieRoll
 - Objective: The rework should offer a revised design that is more visually impactful.
 - Post to http://www.Art64X.com/upload.php as filename YOURNAMEHERE-moreDiva.html
 
-## Homework (!!!)
-```diff
-- Follow up 200220-1800: All homework items listed here were planned but not formally introduced in class. These items will be formally introduced in a future class, and due dates will be adjusted.
-```
+
 ## Personal data gathering [ All levels ]
 - Keep track of everything you eat this weekend (Saturday and Sunday). Make a list any way you can.
 - Make a list of every website you visit this weekend (Saturday and Sunday). Make a list any way you can.
@@ -173,9 +170,11 @@ The demo can be viewed at http://www.codeyourheartout.com/examples/randomDieRoll
 - Upload your HTML document into this assignment folder
 - Due next Tuesday
 
-## freeCodeCamp.org
-- Complete any 10 challenges by Thursday end of class.
+## freeCodeCamp.org setup
+- Create free account
 
+## freeCodeCamp.org intro
+- Complete any 10 challenges
 
 ## Codeweaving [ 646 ] 
 - Utilize codeweaving technique in your apps
@@ -199,9 +198,6 @@ The demo can be viewed at http://www.codeyourheartout.com/examples/randomDieRoll
 - Animation should have at least three frames
 - Save as animated GIF, with infinite looping.
 - Upload to your personal sandbox subdirectory.
-
-## freeCodeCamp.org
-- Complete 10 more challenges.
 
 ## Sandbox home page
 - Design a home page for your personal sandbox subdirectory
