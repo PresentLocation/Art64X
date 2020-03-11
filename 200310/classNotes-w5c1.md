@@ -13,10 +13,11 @@
 
 ## Lecture: Design concepts via case study review: Art 64X voting app
 ### Concepts
-- MVP: Minimum Viable Product. This concept informs a time-based user-centered design strategy
+- Soft launch: A product release to actual users even though the product's full or intended functionality is not yet achieved. Soft launches tend to occur when project objectives value timing as more important than perfection.
+- MVP: Minimum Viable Product. This is the result of deliberate down-scoping of a product's functional goals. This concept informs a time-based user-centered design strategy.
 - Function: What a thing does. Things might be sites, pages, apps, etc.
-- Functional specification: An inventory or catalog of all the intended functions of a web project
-### Functions of app (taken together, a summary of all intended functions comprise the project's functional specification)
+- Functional specification: An inventory or catalog of all the intended functions of a web project.
+### Functions of the vote app (taken together, a summary of all intended functions comprise the project's functional specification)
 - Displays choices (random)
 - Require user login to participate
 - Takes submissions
