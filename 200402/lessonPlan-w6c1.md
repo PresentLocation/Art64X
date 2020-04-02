@@ -1,6 +1,11 @@
 # Lesson Plan
 
-## Course roadmap
+## Check-in
+- Spring Break Hackathon: Splash Screen Maker
+
+## Course roadmap: April
+- 645 Personal website project
+- 646 CRUD 
 
 ## Demo: Forms
 - Forms represent the foundational building block of interactivity in web design
